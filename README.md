@@ -38,7 +38,7 @@ As whispers of the night weave dreams' romance.<br/>
 https://github.com/ASWIN1974/TNSDC-Generative-AI
 
 ## Demo Video (or) Results
-https://drive.google.com/file/d/10jVW-oE83yGRqMNI_FhN3AIgfrT1NonU/view?usp=sharing
+https://drive.google.com/file/d/18UNPXrKpedXbmgb_7yYeuU5qJH1tuNdB/view?usp=drive_link
 
 ## Tags
 Generative AI, Poetry, Natural Language Processing, Machine Learning, Python
