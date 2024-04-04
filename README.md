@@ -35,7 +35,7 @@ Beneath the moon's soft glow, shadows dance,<br/>
 As whispers of the night weave dreams' romance.<br/>
 
 ## Repository Link
-https://github.com/Vibilan-S/TNSDC-Generative-AI
+https://github.com/ASWIN1974/TNSDC-Generative-AI
 
 ## Demo Video (or) Results
 https://drive.google.com/file/d/10jVW-oE83yGRqMNI_FhN3AIgfrT1NonU/view?usp=sharing
